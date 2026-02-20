@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OB2.iml" filepath="$PROJECT_DIR$/OB2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppgave-1-parentessjekker/oppgave-1-parentessjekker.iml" filepath="$PROJECT_DIR$/oppgave-1-parentessjekker/oppgave-1-parentessjekker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgave-2/oppgave-2.iml" filepath="$PROJECT_DIR$/oppgave-2/oppgave-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppgave-2-rekursjon/oppgave-2-rekursjon.iml" filepath="$PROJECT_DIR$/oppgave-2-rekursjon/oppgave-2-rekursjon.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppgave-3-rekursjon/oppgave-3-rekursjon.iml" filepath="$PROJECT_DIR$/oppgave-3-rekursjon/oppgave-3-rekursjon.iml" />
     </modules>
